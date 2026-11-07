@@ -1,0 +1,11 @@
+{
+  "org": "ansible-collections",
+  "repo": "redhat.ai",
+  "versions": [
+    {
+      "commit": "5a132d00106ad8bee72bc58ec4708ac6f6a753c3",
+      "tag": "",
+      "parsed_at": "2026-11-07T17:34:10.607091+00:00"
+    }
+  ]
+}
